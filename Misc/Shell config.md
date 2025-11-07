@@ -1,6 +1,8 @@
 - ZSH
 	- OhMyZSH: https://ohmyz.sh/
 	- powerlevel10k: https://github.com/romkatv/powerlevel10k
+	- plugins: https://github.com/ohmyzsh/ohmyzsh/wiki/plugins
+		- git plugin (shortcuts): https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git
 - lazydocker: https://github.com/jesseduffield/lazydocker
 - lazygit: https://github.com/jesseduffield/lazygit
 - tig: https://github.com/jonas/tig
