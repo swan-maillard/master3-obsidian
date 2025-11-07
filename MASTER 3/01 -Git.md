@@ -183,6 +183,7 @@ git cherry-pick <commit-id>
 git reset HEAD~2  # Undo the last 2 commits without deleting files
 git reset --soft HEAD~2  # Keep changes in the index
 git reset --hard HEAD~2  # Permanently delete changes
+git reset --hard origin/main # Resets to the state of the 
 ```
 
 ---
