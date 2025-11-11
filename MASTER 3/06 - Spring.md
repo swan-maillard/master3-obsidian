@@ -1,7 +1,7 @@
 ---
 cover: "[[spring.png]]"
 ---
-	# 💠Table of Contents
+# 💠Table of Contents
 ```table-of-contents
 title: 
 style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
