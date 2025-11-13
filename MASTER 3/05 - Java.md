@@ -16,8 +16,8 @@ debugInConsole: false # Print debug info in Obsidian console
 # 💠 Core Java Concepts
 
 ## 1. Main Versions
-- Last version: **24**
-- LTS: **11**, **17**, **21**
+- Last version: **25**
+- LTS: **11**, **17**, **21**, **25**
 
 ## 2. Object-Oriented Programming (OOP)
 OOP is a **programming paradigm** based on objects, which represents concepts.
